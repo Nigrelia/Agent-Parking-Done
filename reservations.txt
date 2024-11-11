@@ -1,0 +1,11 @@
+res001 cit001 pkg001 wifi berline jour 1 12 11 2023 50.00
+res002 cit002 pkg002 stationnement suv nuit 2 15 11 2023 80.00
+res003 cit003 pkg003 wifi fourgon jour/nuit 3 20 10 2023 100.00
+res004 cit004 pkg004 nettoyage sedan jour 1 25 9 2023 60.00
+res005 cit005 pkg005 wifi berline nuit 2 5 10 2023 75.00
+res006 cit006 pkg006 stationnement camion jour 1 10 8 2023 120.00
+res007 cit007 pkg007 nettoyage suv jour/nuit 2 18 7 2023 85.00
+res008 cit008 pkg008 wifi berline jour 3 22 6 2023 55.00
+res009 cit009 pkg009 stationnement suv nuit 1 3 12 2023 90.00
+res010 cit010 pkg010 nettoyage fourgon jour 2 15 5 2023 95.00
+

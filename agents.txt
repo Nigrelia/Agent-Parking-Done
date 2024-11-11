@@ -1,0 +1,2 @@
+5 5 5 5 5.00 5 5 5 Non_affecte 5 
+1 1 1 1 1.00 1 1 1 Non_affecte portier 
